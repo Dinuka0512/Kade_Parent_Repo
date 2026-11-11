@@ -1,3 +1,5 @@
+
+
 # KADE - E-Commerce Platform
 
 This repository is the parent repository for the KADE E-Commerce Platform.
@@ -39,3 +41,6 @@ It provides access to the frontend application, backend microservices platform, 
                     User Service         Product Service         Order Service
                          |                      |                      |
                       Database              Database               Database
+
+```
+[Video](https://drive.google.com/file/d/1m1pLwJdE2LiBXhK6CaJKRgU26r09yrJa/view?usp=sharing)
